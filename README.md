@@ -17,7 +17,7 @@ A simple Python project demonstrating **Selenium** automation by scraping GPU pr
 
 ```
 
- 📦Selenium1
+ 📦Selenium Project - GPU Price Checker
  ┣ 📂gpu_snapshots
  ┃ ┗ 📂14-05-2025
  ┃ ┃ ┣ 📜komputronik_b580_14-05-2025_22-01.webp     ← Output example
